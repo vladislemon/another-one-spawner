@@ -1,0 +1,10 @@
+itemGroup.AnotherOneSpawner=Another One Spawner
+
+item.MobTrap.name=Mob Trap
+tile.Spawner.name=Auto-Spawner
+
+AnotherOneSpawner.entityNotAllowed=Entity "%name%" is not allowed for auto-spawning
+AnotherOneSpawner.needMoreXp=Please call more skilled person, need xp levels: %count%
+AnotherOneSpawner.exactCopySwitch=Exact copy: %state%
+AnotherOneSpawner.yes=yes
+AnotherOneSpawner.no=no

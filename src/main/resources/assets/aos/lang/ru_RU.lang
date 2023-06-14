@@ -1,0 +1,10 @@
+itemGroup.AnotherOneSpawner=Another One Spawner
+
+item.MobTrap.name=Мобо-ловушка
+tile.Spawner.name=Авто-спавнер
+
+AnotherOneSpawner.entityNotAllowed=Сущность "%name%" не разрешена для авто-спавна
+AnotherOneSpawner.needMoreXp=Позовите более опытного специалиста, необходимо уровней опыта: %count%
+AnotherOneSpawner.exactCopySwitch=Точная копия: %state%
+AnotherOneSpawner.yes=да
+AnotherOneSpawner.no=нет

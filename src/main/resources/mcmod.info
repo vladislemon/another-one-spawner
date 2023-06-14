@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AnotherOneSpawner",
+  "name": "Another One Spawner",
+  "description": "Mob Spawners",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["slimon"],
+  "credits": "Created by slimon.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
